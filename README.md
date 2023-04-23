@@ -1,5 +1,6 @@
 # Mime
-Sign language recognizer for video conferencing apps.
+
+** Sign language recognizer for video conferencing apps. **
 
 ## About Project
 
